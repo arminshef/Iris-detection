@@ -1,8 +1,8 @@
 # Iris-detection
 In this project we have used MLP to classify the Iris flowers
 Generally, there are 7 steps in data science that are considered well in this project:
-1 - Data collection
-2 - Data prepration
+1 - Data collection\n
+2 - Data prepration\n
 3 - Exploratory data analysis
 4 - Model building
 5 - Model testing
